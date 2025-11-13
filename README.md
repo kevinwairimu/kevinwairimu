@@ -62,8 +62,3 @@ I'm open to collaboration, freelance projects, and full-time opportunities in da
 ---
 
 Thanks for visiting — let’s turn data into impact!
-```
-
----
-
-Let me know if you'd like help writing READMEs for individual projects or adding GitHub profile badges and activity stats.
