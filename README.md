@@ -28,9 +28,7 @@ Welcome to my GitHub! I specialize in turning raw data into meaningful insights 
 **Languages**  
 - Python (Pandas, NumPy)  
 - SQL  
-- DAX  
-- R (basic)  
-- HTML & CSS (basic)
+- DAX   
 
 **Tools & Platforms**  
 - Power BI  
