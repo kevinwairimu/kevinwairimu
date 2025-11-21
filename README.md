@@ -43,11 +43,25 @@ Welcome to my GitHub! I specialize in turning raw data into meaningful insights 
 
 ---
 
-## 🚀 Featured Projects
+Here you'll find projects showcasing my expertise in:  
+- 📊 Excel (data cleaning, automation, dashboards)  
+- 🗄️ SQL (queries, database management, reporting)  
+- 📈 Power BI (interactive dashboards, business insights)  
+- 🐍 Python (data analysis, automation, visualization)  
+- 📉 Tableau (storytelling with data)  
+- 🌐 Full‑stack portfolio projects  
 
-- **Exam Performance Analyzer**: Multi-level student performance tracking with mobile integration  
-- **Student Data Management System**: Centralized platform for reliable access and uptime  
-- **Retail Fulfillment Insights**: E-commerce data analysis to optimize order processing and customer satisfaction
+---
+
+## 🚀 Featured Repositories
+- [Excel Projects](link-to-repo)  
+- [SQL Projects](link-to-repo)  
+- [Power BI Projects](link-to-repo)  
+- [Python Projects](link-to-repo)  
+- [Tableau Projects](link-to-repo)  
+- [Portfolio (Full‑Stack)](link-to-repo)  
+
+
 
 ---
 
